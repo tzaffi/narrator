@@ -31,6 +31,18 @@ Make a new voice in Eleven and get the voice id of that voice using their [get v
 export ELEVENLABS_VOICE_ID=<voice-id>
 ```
 
+### Zeph's Alternate
+
+```sh
+source secrets.env
+```
+
+[voices doc url](https://elevenlabs.io/docs/api-reference/get-voices)
+
+### Zeph's `zrames/frames_*.jbg`
+
+Were screenshotted from [Keating+Turok on YouTube](https://youtu.be/Dt5cFLN65fI?si=Mgtzu10CUbXEgP1B).
+
 ## Run it!
 
 In on terminal, run the webcam capture:

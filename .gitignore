@@ -1,5 +1,15 @@
 .env
-/venv
+.venv
 /narration
 /frames/*
 !/frames/.gitkeep
+
+# Zeph's ignores
+.DS_Store
+*.m4a
+*.mp3
+*.json
+*.wav
+*.b64
+*.txt
+*.jpg
